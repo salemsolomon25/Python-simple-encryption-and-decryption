@@ -1,6 +1,6 @@
-# Python-simple-encryption-and-decryption
+# Python-simple-encryption-and-decryption  Author: Salem Solomon
 Python encryption/decryption program using character shifting.
-# Program name: salem_solomon_A3.py A3 Simple Encryption/decryption program Author: Salem Solomon
+
 print('start of A3 program')
 # The while loop prompts the user to keep entering a message until they hit enter
 while True:
